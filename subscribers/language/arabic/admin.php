@@ -2,7 +2,6 @@
 define("_AM_SUBSCRIBERS_GOMOD", "ÕÝÍÉ ÇáÈÑäÇãÌ");
 define("_AM_SUBSCRIBERS_BLOCKS", "ÅÏÇÑÉ ÇáÈáæßÇÊ");
 define("_AM_SUBSCRIBERS_UPDATE_MODULE", "ÊÍÏíË ÇáÈÑäÇãÌ");
-define("_AM_SUBSCRIBERS_EXPORT", "Export");
 define("_AM_SUBSCRIBERS_ERROR", "ÚÐÑÇð¡ ÍÏË ÎØÃ!");
 define("_AM_SUBSCRIBERS_SOME_ERROR", "íÈÏæ Ãä ÈÚÖ ÇáãÊØáÈÇÊ ÛíÑ ãÊæÝÑÉ!");
 define("_AM_SUBSCRIBERS_SUCCESS", "ÊãÊ ÇáÚãáíÉ ÈäÌÇÍ");
@@ -14,7 +13,7 @@ define("_AM_SUBSCRIBERS_RESULTS_FOUND", "ãÔÊÑßí ÇáÞÇÆãÉ ÇáÈÑíÏíÉ : ");
 define("_AM_SUBSCRIBERS_COUNTRY", "ÇáÈáÏ");
 define("_AM_SUBSCRIBERS_EMAIL", "ÇáÈÑíÏ ÇáÅáßÊÑæäí");
 define("_AM_SUBSCRIBERS_NAME", "ÇáÇÓã");
-define("_AM_SUBSCRIBERS_PHONE", "Phone");
+define("_AM_SUBSCRIBERS_PHONE", "ÑÞã ÇáåÇÊÝ");
 define("_AM_SUBSCRIBERS_CREATED", "ÈÊÇÑíÎ");
 define("_AM_SUBSCRIBERS_PRIORITY", "ÇáÃæáæíÉ");
 define("_AM_SUBSCRIBERS_SUBJECT", "ÇáÚäæÇä");
@@ -39,5 +38,6 @@ define("_AM_SUBSCRIBERS_DELETE_ALL", "ÍÐÝ Çáßá");
 define("_AM_SUBSCRIBERS_USERS_FOUND", "ÃÚÖÇÁ ÇáãæÞÚ : ");
 define("_AM_SUBSCRIBERS_TOTAL_FOUND", "ÇáÅÌãÇáí : ");
 
-define("_AM_SUBSCRIBERS_MISSING_PHPEXCEL", "PHPExcel Framework was not found, please install it!");
+define("_AM_SUBSCRIBERS_MISSING_PHPEXCEL", "ãßÊÈÉ PHPExcel ÛíÑ ãæÌæÏÉ. íÑÌì ÊÑßíÈåÇ áÅÊãÇã ÚãáíÉ ÇáÊÕÏíÑ.");
+
 ?>

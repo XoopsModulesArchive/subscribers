@@ -11,8 +11,8 @@ define("_MD_SUBSCRIBERS_ENTER_EMAIL", "«·»—Ìœ «·≈·ﬂ —Ê‰Ì : ");
 define("_MD_SUBSCRIBERS_ENTER_NAME", "«·«”„ : ");
 define("_MD_SUBSCRIBERS_ENTER_SECURITY", "«·—„“ «·√„‰Ì : ");
 define("_MD_SUBSCRIBERS_SUBMIT", "«‘ —ﬂ «·¬‰");
-define("_MD_SUBSCRIBERS_ENTER_PHONE", "Phone Number : ");
+define("_MD_SUBSCRIBERS_ENTER_PHONE", "—ﬁ„ «·Â« › : ");
 
 //UNSUBSCRIBE
-define("_MD_SUBSCRIBERS_U_NO_THANKS", "Sorry, it was not possible to unsubscribe you.");
-define("_MD_SUBSCRIBERS_U_THANKS", "You are now unsubscribed!");
+define("_MD_SUBSCRIBERS_U_NO_THANKS", "‰√”›° ·„ ‰ „ﬂ‰ „‰ ≈·€«¡ «·≈‘ —«ﬂ.");
+define("_MD_SUBSCRIBERS_U_THANKS", " „ ≈·€«¡ ≈‘ —«ﬂﬂ «·¬‰!");

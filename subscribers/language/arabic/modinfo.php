@@ -23,4 +23,5 @@ define("_MI_SUBSCRIBERS_CONF_CAPTCHA_DSC", "");
 define("_MI_SUBSCRIBERS_CONF_CAPTCHA_CHOICE1", "ÊÝÚíáåÇ ááÃÚÖÇÁ æ ÇáÒæÇÑ");
 define("_MI_SUBSCRIBERS_CONF_CAPTCHA_CHOICE2", "ÊÝÚíáåÇ ááÒæÇÑ ÝÞØ");
 define("_MI_SUBSCRIBERS_CONF_CAPTCHA_CHOICE3", "ÊÚØíáåÇ");
+define("_MI_SUBSCRIBERS_EXPORT", "ÊÕÏíÑ");
 ?>
