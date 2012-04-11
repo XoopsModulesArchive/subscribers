@@ -17,9 +17,11 @@ $redir = isset($_GET['redir']) ? $_GET['redir'] : (isset($_POST['redir']) ? $_PO
 switch ($op) {
     case 'list':
         xoops_cp_header();
-        subscribers_adminMenu(2, _MI_SUBSCRIBERS_ADMENU_WAITING);
+//        subscribers_adminMenu(2, _MI_SUBSCRIBERS_ADMENU_WAITING);
+        $indexAdmin = new ModuleAdmin();
+           echo $indexAdmin->addNavigation('admin_waiting.php');
         echo waiting_index($start);
-        xoops_cp_footer();
+        include_once 'admin_footer.php';
         break;
     case 'del':
         waiting_confirmdel($id, $redir);

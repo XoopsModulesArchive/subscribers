@@ -4,16 +4,35 @@ if (!defined("XOOPS_ROOT_PATH")) {
 }
 
 $modversion['name'] = _MI_SUBSCRIBERS_MD_NAME;
-$modversion['version'] = 1.1;
+$modversion['version'] = 1.2;
 $modversion['description'] = _MI_SUBSCRIBERS_MD_DSC;
 $modversion['author'] = "Trabis - www.xuups.com";
 $modversion['credits'] = "Mowaffaq & Mariane - www.arabxoops.com";
-$modversion['help'] = "";
-$modversion['license'] = "GNU General Public License (GPL)";
+$modversion['help'] = 'page=help';
+$modversion['license'] = 'GNU GPL 2.0';
+$modversion['license_url'] = "www.gnu.org/licenses/gpl-2.0.html/";
 $modversion['official'] = 0;
 $modversion['dirname'] = "subscribers";
 
 $modversion['image'] = "images/module_logo.gif";
+
+$modversion['dirmoduleadmin'] = '/Frameworks/moduleclasses/moduleadmin';
+$modversion['icons16'] = '../../Frameworks/moduleclasses/icons/16';
+$modversion['icons32'] = '../../Frameworks/moduleclasses/icons/32';
+
+//about
+$modversion['demo_site_url'] = "";
+$modversion['demo_site_name'] = "";
+$modversion['module_website_url'] = "http://xoops.org";
+$modversion['module_website_name'] = "XOOPS";
+$modversion['release_date'] = "2012/04/11";
+$modversion['module_status'] = "Beta";
+$modversion["author_website_url"] = "http://www.myweb.ne.jp";
+$modversion["author_website_name"] = "Kazumi Ono";
+$modversion['min_php']='5.2';
+$modversion['min_xoops']="2.5.0";
+$modversion['min_admin']='1.1';
+$modversion['min_db']= array('mysql'=>'5.0.7', 'mysqli'=>'5.0.7');
 
 // Admin things
 $modversion['hasAdmin'] = 1;
@@ -31,6 +50,7 @@ $modversion['tables'][1] = "subscribers_waiting";
 $modversion['hasSearch'] = 0;
 // Menu
 $modversion['hasMain'] = 1;
+$modversion['system_menu'] = 1;
 
 // Templates
 $i = 0;

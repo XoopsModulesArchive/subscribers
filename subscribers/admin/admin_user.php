@@ -18,18 +18,20 @@ $redir = isset($_GET['redir']) ? $_GET['redir'] : (isset($_POST['redir']) ? $_PO
 switch ($op){
     case 'list':
         xoops_cp_header();
-        subscribers_adminMenu(0, _MI_SUBSCRIBERS_ADMENU_USER);
+//        subscribers_adminMenu(0, _MI_SUBSCRIBERS_ADMENU_USER);
+        $indexAdmin = new ModuleAdmin();
+        echo $indexAdmin->addNavigation('admin_user.php');
         echo user_index($start);
-        xoops_cp_footer();
+        include_once 'admin_footer.php';
         break;
     case 'add':
         user_add($id);
         break;
     case 'edit':
         xoops_cp_header();
-        subscribers_adminMenu(0, _MI_SUBSCRIBERS_ADMENU_USER);
+//        subscribers_adminMenu(0, _MI_SUBSCRIBERS_ADMENU_USER);
         echo user_form($id);
-        xoops_cp_footer();
+        include_once 'admin_footer.php';
         break;
     case 'editok':
         user_edit($id);

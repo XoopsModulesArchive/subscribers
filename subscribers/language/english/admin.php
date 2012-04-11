@@ -2,7 +2,6 @@
 define("_AM_SUBSCRIBERS_GOMOD", "Go to Module");
 define("_AM_SUBSCRIBERS_BLOCKS", "Manage blocks");
 define("_AM_SUBSCRIBERS_UPDATE_MODULE", "Update Module");
-define("_AM_SUBSCRIBERS_EXPORT", "Export");
 define("_AM_SUBSCRIBERS_ERROR", "Sorry, an error occured!");
 define("_AM_SUBSCRIBERS_SOME_ERROR", "Hum, some requests were not performed!");
 define("_AM_SUBSCRIBERS_SUCCESS", "Done!!!");

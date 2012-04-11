@@ -23,4 +23,5 @@ define("_MI_SUBSCRIBERS_CONF_CAPTCHA_DSC", "");
 define("_MI_SUBSCRIBERS_CONF_CAPTCHA_CHOICE1", "Activate to users and visitors");
 define("_MI_SUBSCRIBERS_CONF_CAPTCHA_CHOICE2", "Activate to visitors only");
 define("_MI_SUBSCRIBERS_CONF_CAPTCHA_CHOICE3", "Desactivate");
+define("_MI_SUBSCRIBERS_EXPORT", "Export");
 ?>

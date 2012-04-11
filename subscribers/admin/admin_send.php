@@ -14,9 +14,11 @@ switch ($op){
     case 'form':
     default:
         xoops_cp_header();
-        subscribers_adminMenu(1, _MI_SUBSCRIBERS_ADMENU_SEND);
+        $indexAdmin = new ModuleAdmin();
+           echo $indexAdmin->addNavigation('admin_send.php');
+//        subscribers_adminMenu(1, _MI_SUBSCRIBERS_ADMENU_SEND);
         echo send_form();
-        xoops_cp_footer();
+    include_once 'admin_footer.php';
         break;
 }
 

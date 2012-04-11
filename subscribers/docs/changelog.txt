@@ -1,0 +1,8 @@
+version 1.2 - April 11, 2012
+--------------------
+- converted to XOOPS 2.5.x Admin GUI (Mamba)
+
+
+version 1.1 - Oct. 31, 2011
+--------------------
+- original release (Trabis)
