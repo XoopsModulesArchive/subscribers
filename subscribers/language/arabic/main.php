@@ -1,18 +1,18 @@
 <?php
-define("_MD_SUBSCRIBERS_THANKS", "ÔßÑÇð áÅÔÊÑÇßß Ýí ÞÇÆãÊäÇ ÇáÈÑíÏíÉ");
-define("_MD_SUBSCRIBERS_NO_THANKS", "äÃÓÝ áÇ íãßäß ÇáÅÔÊÑÇß ÍÇáíÇð");
-define("_MD_SUBSCRIBERS_ERROR_BADEMAIL", "ÚÝæÇð¡ íÌÈ Úáíß ÅÏÎÇá ÈÑíÏ ÅáßÊÑæäí ÕÍíÍ");
-define("_MD_SUBSCRIBERS_ERROR_ALREADY", "ÚÝæÇð¡ åÐÇ ÇáÈÑíÏ ÇáÅáßÊÑæäí ãÔÊÑß ãÓÈÞÇð");
+define("_MD_SUBSCRIBERS_THANKS","ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define("_MD_SUBSCRIBERS_NO_THANKS","ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define("_MD_SUBSCRIBERS_ERROR_BADEMAIL","ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½");
+define("_MD_SUBSCRIBERS_ERROR_ALREADY","ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
 
 //INDEX
-define("_MD_SUBSCRIBERS_SUBSCRIBE", "ÇÔÊÑß Ýí ÞÇÆãÊäÇ ÇáÈÑíÏíÉ");
-define("_MD_SUBSCRIBERS_ENTER_COUNTRY", "ÇáÈáÏ : ");
-define("_MD_SUBSCRIBERS_ENTER_EMAIL", "ÇáÈÑíÏ ÇáÅáßÊÑæäí : ");
-define("_MD_SUBSCRIBERS_ENTER_NAME", "ÇáÇÓã : ");
-define("_MD_SUBSCRIBERS_ENTER_SECURITY", "ÇáÑãÒ ÇáÃãäí : ");
-define("_MD_SUBSCRIBERS_SUBMIT", "ÇÔÊÑß ÇáÂä");
-define("_MD_SUBSCRIBERS_ENTER_PHONE", "ÑÞã ÇáåÇÊÝ : ");
+define("_MD_SUBSCRIBERS_SUBSCRIBE","ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+define("_MD_SUBSCRIBERS_ENTER_COUNTRY","ï¿½ï¿½ï¿½ï¿½ï¿½ : ");
+define("_MD_SUBSCRIBERS_ENTER_EMAIL","ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ");
+define("_MD_SUBSCRIBERS_ENTER_NAME","ï¿½ï¿½ï¿½ï¿½ï¿½ : ");
+define("_MD_SUBSCRIBERS_ENTER_SECURITY","ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ");
+define("_MD_SUBSCRIBERS_SUBMIT","ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½");
+define("_MD_SUBSCRIBERS_ENTER_PHONE","ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ : ");
 
 //UNSUBSCRIBE
-define("_MD_SUBSCRIBERS_U_NO_THANKS", "äÃÓÝ¡ áã äÊãßä ãä ÅáÛÇÁ ÇáÅÔÊÑÇß.");
-define("_MD_SUBSCRIBERS_U_THANKS", "Êã ÅáÛÇÁ ÅÔÊÑÇßß ÇáÂä!");
+define("_MD_SUBSCRIBERS_U_NO_THANKS","ï¿½ï¿½ï¿½Ý¡ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.");
+define("_MD_SUBSCRIBERS_U_THANKS","ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½!");

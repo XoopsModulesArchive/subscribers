@@ -1,43 +1,43 @@
 <?php
-define("_AM_SUBSCRIBERS_GOMOD", "’›Õ… «·»—‰«„Ã");
-define("_AM_SUBSCRIBERS_BLOCKS", "≈œ«—… «·»·Êﬂ« ");
-define("_AM_SUBSCRIBERS_UPDATE_MODULE", " ÕœÌÀ «·»—‰«„Ã");
-define("_AM_SUBSCRIBERS_ERROR", "⁄–—«° ÕœÀ Œÿ√!");
-define("_AM_SUBSCRIBERS_SOME_ERROR", "Ì»œÊ √‰ »⁄÷ «·„ ÿ·»«  €Ì— „ Ê›—…!");
-define("_AM_SUBSCRIBERS_SUCCESS", " „  «·⁄„·Ì… »‰Ã«Õ");
-define("_AM_SUBSCRIBERS_AYS", "Â· √‰  „ √ﬂœ ø");
-define("_AM_SUBSCRIBERS_LIST", "ﬁ«∆„… «·„‘ —ﬂÌ‰");
-define("_AM_SUBSCRIBERS_ERROR_SELECT", "Œÿ√ ›Ì «·≈Œ Ì«—!!!");
-define("_AM_SUBSCRIBERS_RESULTS_FOUND", "„‘ —ﬂÌ «·ﬁ«∆„… «·»—ÌœÌ… : ");
+define("_AM_SUBSCRIBERS_GOMOD","√ï√ù√ç√â √á√°√à√ë√§√á√£√å");
+define("_AM_SUBSCRIBERS_BLOCKS","√Ö√è√á√ë√â √á√°√à√°√¶√ü√á√ä");
+define("_AM_SUBSCRIBERS_UPDATE_MODULE","√ä√ç√è√≠√ã √á√°√à√ë√§√á√£√å");
+define("_AM_SUBSCRIBERS_ERROR","√ö√ê√ë√á√∞¬° √ç√è√ã √é√ò√É!");
+define("_AM_SUBSCRIBERS_SOME_ERROR","√≠√à√è√¶ √É√§ √à√ö√ñ √á√°√£√ä√ò√°√à√á√ä √õ√≠√ë √£√ä√¶√ù√ë√â!");
+define("_AM_SUBSCRIBERS_SUCCESS","√ä√£√ä √á√°√ö√£√°√≠√â √à√§√å√á√ç");
+define("_AM_SUBSCRIBERS_AYS","√•√° √É√§√ä √£√ä√É√ü√è ¬ø");
+define("_AM_SUBSCRIBERS_LIST","√û√á√Ü√£√â √á√°√£√î√ä√ë√ü√≠√§");
+define("_AM_SUBSCRIBERS_ERROR_SELECT","√é√ò√É √ù√≠ √á√°√Ö√é√ä√≠√á√ë!!!");
+define("_AM_SUBSCRIBERS_RESULTS_FOUND","√£√î√ä√ë√ü√≠ √á√°√û√á√Ü√£√â √á√°√à√ë√≠√è√≠√â : ");
 
-define("_AM_SUBSCRIBERS_COUNTRY", "«·»·œ");
-define("_AM_SUBSCRIBERS_EMAIL", "«·»—Ìœ «·≈·ﬂ —Ê‰Ì");
-define("_AM_SUBSCRIBERS_NAME", "«·«”„");
-define("_AM_SUBSCRIBERS_PHONE", "—ﬁ„ «·Â« ›");
-define("_AM_SUBSCRIBERS_CREATED", "» «—ÌŒ");
-define("_AM_SUBSCRIBERS_PRIORITY", "«·√Ê·ÊÌ…");
-define("_AM_SUBSCRIBERS_SUBJECT", "«·⁄‰Ê«‰");
-define("_AM_SUBSCRIBERS_NOTFOUND", "«·ÃœÊ· ›«—€");
+define("_AM_SUBSCRIBERS_COUNTRY","√á√°√à√°√è");
+define("_AM_SUBSCRIBERS_EMAIL","√á√°√à√ë√≠√è √á√°√Ö√°√ü√ä√ë√¶√§√≠");
+define("_AM_SUBSCRIBERS_NAME","√á√°√á√ì√£");
+define("_AM_SUBSCRIBERS_PHONE","√ë√û√£ √á√°√•√á√ä√ù");
+define("_AM_SUBSCRIBERS_CREATED","√à√ä√á√ë√≠√é");
+define("_AM_SUBSCRIBERS_PRIORITY","√á√°√É√¶√°√¶√≠√â");
+define("_AM_SUBSCRIBERS_SUBJECT","√á√°√ö√§√¶√á√§");
+define("_AM_SUBSCRIBERS_NOTFOUND","√á√°√å√è√¶√° √ù√á√ë√õ");
 
-define("_AM_SUBSCRIBERS_SEND", "—”«·… ≈⁄·«‰Ì… ÃœÌœ…");
-define("_AM_SUBSCRIBERS_ALL_COUNTRIES", "Ã„Ì⁄ «·œÊ·");
-define("_AM_SUBSCRIBERS_EMAIL_PRIORITY", "«·√Ê·ÊÌ…");
-define("_AM_SUBSCRIBERS_EMAIL_PRIORITY_DSC", "«·√⁄·Ï √”—⁄!");
-define("_AM_SUBSCRIBERS_EMAIL_SUBJECT", "«·⁄‰Ê«‰");
-define("_AM_SUBSCRIBERS_EMAIL_BODY", "«·—”«·…");
-define("_AM_SUBSCRIBERS_EMAIL_BODY_DSC", "Ì„ﬂ‰ﬂ ≈” Œœ«„ «·√Ê”„… {NAME} Ê {EMAIL} .<br /> Ê ”  „  ÕÊÌ·Â« ≈·Ï «”„ Ê »—Ìœ «·„‘ —ﬂ");
+define("_AM_SUBSCRIBERS_SEND","√ë√ì√á√°√â √Ö√ö√°√á√§√≠√â √å√è√≠√è√â");
+define("_AM_SUBSCRIBERS_ALL_COUNTRIES","√å√£√≠√ö √á√°√è√¶√°");
+define("_AM_SUBSCRIBERS_EMAIL_PRIORITY","√á√°√É√¶√°√¶√≠√â");
+define("_AM_SUBSCRIBERS_EMAIL_PRIORITY_DSC","√á√°√É√ö√°√¨ √É√ì√ë√ö!");
+define("_AM_SUBSCRIBERS_EMAIL_SUBJECT","√á√°√ö√§√¶√á√§");
+define("_AM_SUBSCRIBERS_EMAIL_BODY","√á√°√ë√ì√á√°√â");
+define("_AM_SUBSCRIBERS_EMAIL_BODY_DSC","√≠√£√ü√§√ü √Ö√ì√ä√é√è√á√£ √á√°√É√¶√ì√£√â {NAME} √¶ {EMAIL} .<br /> √¶ √ì√ä√ä√£ √ä√ç√¶√≠√°√•√á √Ö√°√¨ √á√ì√£ √¶ √à√ë√≠√è √á√°√£√î√ä√ë√ü");
 
 // Groups
-define("_AM_SUBSCRIBERS_SUBSCRIBERS", "«·„‘ —ﬂÌ‰");
-define("_AM_SUBSCRIBERS_USERS", "«·√⁄÷«¡ «·„›⁄·Ì‰");
-define("_AM_SUBSCRIBERS_BOTH", "«·ﬂ·");
-define("_AM_SUBSCRIBERS_EMAIL_GROUPS", "«·„Ã„Ê⁄« ");
-define("_AM_SUBSCRIBERS_EMAIL_GROUPS_DSC", "≈Œ — „Ã„Ê⁄… «·„” ·„Ì‰");
+define("_AM_SUBSCRIBERS_SUBSCRIBERS","√á√°√£√î√ä√ë√ü√≠√§");
+define("_AM_SUBSCRIBERS_USERS","√á√°√É√ö√ñ√á√Å √á√°√£√ù√ö√°√≠√§");
+define("_AM_SUBSCRIBERS_BOTH","√á√°√ü√°");
+define("_AM_SUBSCRIBERS_EMAIL_GROUPS","√á√°√£√å√£√¶√ö√á√ä");
+define("_AM_SUBSCRIBERS_EMAIL_GROUPS_DSC","√Ö√é√ä√ë √£√å√£√¶√ö√â √á√°√£√ì√ä√°√£√≠√§");
 
-define("_AM_SUBSCRIBERS_DELETE_ALL", "Õ–› «·ﬂ·");
-define("_AM_SUBSCRIBERS_USERS_FOUND", "√⁄÷«¡ «·„Êﬁ⁄ : ");
-define("_AM_SUBSCRIBERS_TOTAL_FOUND", "«·≈Ã„«·Ì : ");
+define("_AM_SUBSCRIBERS_DELETE_ALL","√ç√ê√ù √á√°√ü√°");
+define("_AM_SUBSCRIBERS_USERS_FOUND","√É√ö√ñ√á√Å √á√°√£√¶√û√ö : ");
+define("_AM_SUBSCRIBERS_TOTAL_FOUND","√á√°√Ö√å√£√á√°√≠ : ");
 
-define("_AM_SUBSCRIBERS_MISSING_PHPEXCEL", "„ﬂ »… PHPExcel €Ì— „ÊÃÊœ…. Ì—ÃÏ  —ﬂÌ»Â« ·≈ „«„ ⁄„·Ì… «· ’œÌ—.");
+define("_AM_SUBSCRIBERS_MISSING_PHPEXCEL","√£√ü√ä√à√â PHPExcel √õ√≠√ë √£√¶√å√¶√è√â. √≠√ë√å√¨ √ä√ë√ü√≠√à√•√á √°√Ö√ä√£√á√£ √ö√£√°√≠√â √á√°√ä√ï√è√≠√ë.");
 
 ?>
